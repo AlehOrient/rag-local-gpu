@@ -26,3 +26,10 @@ uvicorn main:app --host 0.0.0.0 --port 8000
 
 # 4. Testar
 # Abra http://localhost:8000/docs
+## Autor
+
+Alexandre José da Silva
+Projeto desenvolvido com foco em IA local e privacidade.
+
+Linkedin: https://www.linkedin.com/in/seu-link-aqui/
+Github: https://github.com/AlehOrient
