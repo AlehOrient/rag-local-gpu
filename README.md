@@ -31,5 +31,5 @@ uvicorn main:app --host 0.0.0.0 --port 8000
 Alexandre José da Silva
 Projeto desenvolvido com foco em IA local e privacidade.
 
-Linkedin: https://www.linkedin.com/in/seu-link-aqui/
+Linkedin: https://www.linkedin.com/in/alexandre-jos%C3%A9-da-silva-66843a147/
 Github: https://github.com/AlehOrient
